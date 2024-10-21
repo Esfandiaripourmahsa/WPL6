@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPL6"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="WPL6" Height="450" Width="800"
+        Background="Azure">
     <Grid>
         <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
