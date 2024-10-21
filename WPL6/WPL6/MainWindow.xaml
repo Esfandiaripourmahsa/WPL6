@@ -29,6 +29,7 @@ Wachtwoord</TextBlock>
         <TextBlock Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center"
 Grid.ColumnSpan="2" Name="InfoTextBlock" FontStyle="Italic"></TextBlock>
         <Button Content="Button" HorizontalAlignment="Left" Margin="380,47,0,0" Grid.Row="3" VerticalAlignment="Top" RenderTransformOrigin="-0.277,0.255" Grid.ColumnSpan="2"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="328,66,0,0" Grid.Row="3" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
