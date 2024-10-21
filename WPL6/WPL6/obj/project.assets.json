@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mahsa\\.nuget\\packages\\": {}
+    "C:\\Users\\iraqi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahsa\\Downloads\\PXL-2024\\werkplekleren\\WPL6\\WPL6\\WPL6\\WPL6.csproj",
+      "projectUniqueName": "C:\\Users\\iraqi\\source\\repos\\Mahsa\\WPL6\\WPL6\\WPL6.csproj",
       "projectName": "WPL6",
-      "projectPath": "C:\\Users\\mahsa\\Downloads\\PXL-2024\\werkplekleren\\WPL6\\WPL6\\WPL6\\WPL6.csproj",
-      "packagesPath": "C:\\Users\\mahsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahsa\\Downloads\\PXL-2024\\werkplekleren\\WPL6\\WPL6\\WPL6\\obj\\",
+      "projectPath": "C:\\Users\\iraqi\\source\\repos\\Mahsa\\WPL6\\WPL6\\WPL6.csproj",
+      "packagesPath": "C:\\Users\\iraqi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iraqi\\source\\repos\\Mahsa\\WPL6\\WPL6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mahsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iraqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
